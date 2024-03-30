@@ -1,0 +1,22 @@
+{
+  "name": "electron-test1",
+  "version": "1.0.0",
+  "description": "include",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengwei9948/electron-test1.git"
+  },
+  "keywords": [
+    "include"
+  ],
+  "author": "include",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengwei9948/electron-test1/issues"
+  },
+  "homepage": "https://github.com/zhengwei9948/electron-test1#readme"
+}
