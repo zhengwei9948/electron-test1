@@ -4,7 +4,8 @@
   "description": "include",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zhengwei9948/electron-test1/issues"
   },
-  "homepage": "https://github.com/zhengwei9948/electron-test1#readme"
+  "homepage": "https://github.com/zhengwei9948/electron-test1#readme",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
 }
